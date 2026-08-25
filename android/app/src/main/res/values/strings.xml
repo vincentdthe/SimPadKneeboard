@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SimPad Kneeboard</string>
+    <string name="server_connection">Server Connection</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="server_ip">Server IP Address</string>
+    <string name="server_port">Port</string>
+    <string name="active_sim">Simulator</string>
+    <string name="active_aircraft">Aircraft</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="connecting">Connecting…</string>
+    <string name="no_documents">No documents found for current profile.</string>
+    <string name="clear_notes_confirm">Clear all handwritten notes on this page?</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+</resources>

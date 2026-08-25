@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cockpit_bg">#0D1117</color>
+    <color name="cockpit_surface">#161B22</color>
+    <color name="cockpit_primary">#00E5FF</color>
+    <color name="cockpit_text">#F0F6FC</color>
+</resources>

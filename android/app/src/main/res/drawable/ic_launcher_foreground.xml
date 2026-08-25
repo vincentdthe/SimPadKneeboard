@@ -1,0 +1,31 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#0D1117"
+        android:pathData="M0,0h108v108h-108z" />
+    <!-- Kneeboard Board outline -->
+    <path
+        android:fillColor="#161B22"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="2.5"
+        android:pathData="M24,20 h60 a6,6 0 0 1 6,6 v62 a6,6 0 0 1 -6,6 h-60 a6,6 0 0 1 -6,-6 v-62 a6,6 0 0 1 6,-6 z" />
+    <!-- Top Clip -->
+    <path
+        android:fillColor="#30363D"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="1.5"
+        android:pathData="M40,16 h28 a3,3 0 0 1 3,3 v8 a1,1 0 0 1 -1,1 h-32 a1,1 0 0 1 -1,-1 v-8 a3,3 0 0 1 3,-3 z" />
+    <!-- Airplane icon on kneeboard -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M54,36 L58,48 L70,52 L58,55 L58,66 L62,70 L54,68 L46,70 L50,66 L50,55 L38,52 L50,48 Z" />
+    <!-- Pen slash / inking stroke -->
+    <path
+        android:strokeColor="#39D353"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M34,76 C44,72 64,80 74,74" />
+</vector>
