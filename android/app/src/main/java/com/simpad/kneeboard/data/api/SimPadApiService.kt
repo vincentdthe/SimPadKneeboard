@@ -15,7 +15,7 @@ import retrofit2.http.Streaming
 interface SimPadApiService {
 
     @GET("/api/status")
-    async suspend fun getServerStatus(): Response<ServerStatus>
+    suspend fun getServerStatus(): Response<ServerStatus>
 
     @GET("/api/telemetry")
     suspend fun getCurrentTelemetry(): Response<TelemetryData>
